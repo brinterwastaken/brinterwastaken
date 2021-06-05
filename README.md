@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xXTgamerXx
-- 👀 I’m interested in Limux
+- 👀 I’m interested in Linux
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on Themes
 - 📫 How to reach me - xXTgamerXx#6134 on Discord
