@@ -1,3 +1,5 @@
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_LkUD6Q9O97llYqGFpjhPQ?color=%23F28FAD&label=Youtube%20Subscribers&logoColor=%231E1E2E&style=for-the-badge)
+## Github Stats
 [![xXTgamerXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXTgamerXx&title_color=96CDFB&icon_color=DDB6F2&&text_color=D9E0EE&bg_color=1A1826)](https://brin.is-a.dev/)
 <!---
 xXTgamerXx/xXTgamerXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
