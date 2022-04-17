@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 # `~/readme.md`
 ### [My Website](https://brin-is-a.dev)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_LkUD6Q9O97llYqGFpjhPQ?label=Youtube%20Subscribers&style=for-the-badge&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41)
