@@ -5,7 +5,7 @@
 
 ```
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
- ┃                      ﱣ  ﱣ    ┃ ~ ❯ brin@ImperiumPC    
+ ┃                      ﱣ  ﱣ    ┃ ~ ❯ brin@ImperiumPC
  ┃                               ┃
  ┃          █▀▀▀▀▀▀▀▀▀█          ┃ os      Arch Linux
  ┃          █         █          ┃ krnl    Linux 5.17.1-arch1-1
