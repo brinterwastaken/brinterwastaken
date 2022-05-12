@@ -1,19 +1,6 @@
 # `~/readme.md`
-```
- ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
- ┃                      ﱣ  ﱣ    ┃ ~ ❯ brin@ImperiumPC
- ┃                               ┃
- ┃          █▀▀▀▀▀▀▀▀▀█          ┃ os      Arch Linux
- ┃          █         █          ┃ krnl    Linux 5.17.1-arch1-1
- ┃          █  █   █  █          ┃ wm      bspwm
- ┃          █         █          ┃ sh      Zsh
- ┃          ▀█▄▄▄▄▄▄▄█▀          ┃ init    systemd
- ┃                               ┃ pkgs    1267
- ┃                               ┃ up      3d 4h 16m
- ┃          Arch BTW :D          ┃ cpu     AMD Ryzen 5 3600 6-Core Processor
- ┃                               ┃ mem     30%, 4817MiB / 15946MiB
- ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛ ━━━━━━━━━━━━━━━━━━━━━━━━
-```
+
+<img src="https://user-images.githubusercontent.com/72494265/168005445-48af8baf-8c10-450d-8814-b727a93bb5fd.png" style="border-radius: 10px;">
 
 ### [My Website](https://brin-is-a.dev)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_LkUD6Q9O97llYqGFpjhPQ?label=Youtube%20Subscribers&style=for-the-badge&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41)
