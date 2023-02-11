@@ -1,3 +1,4 @@
 # `~/readme.md`
 
-![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?color=%23f0f0f0&label=Followers&logo=github&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?logo=github&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/xXTgamerXx?logo=github&style=for-the-badge)
