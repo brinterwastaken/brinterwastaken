@@ -4,6 +4,7 @@
   
   # `~/readme.md`
   
+  [![Website](https://img.shields.io/static/v1?label=Website&message=brin.is-a.dev&logo=vuedotjs&style=for-the-badge&color=a5a4f4&labelColor=3e444d)](https://brin.is-a.dev)
   ![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?logo=github&style=for-the-badge&color=a5a4f4&labelColor=3e444d)
   ![GitHub User's stars](https://img.shields.io/github/stars/xXTgamerXx?logo=github&style=for-the-badge&color=a5a4f4&labelColor=3e444d)
   
