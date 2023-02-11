@@ -1,8 +1,7 @@
-# `~/readme.md`
 
-<div style="display: flex; justify-content: center;">
+
+<center>
   
-  ![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?logo=github&style=for-the-badge)
-  ![GitHub User's stars](https://img.shields.io/github/stars/xXTgamerXx?logo=github&style=for-the-badge)
+  <h1><code>~/readme.md</code></h1>
 
-</div>
+</center>
