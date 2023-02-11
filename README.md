@@ -4,11 +4,11 @@
   
   # `~/readme.md`
   
-  ![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?logo=github&style=for-the-badge&color=5253F2&labelColor=363c49)
-  ![GitHub User's stars](https://img.shields.io/github/stars/xXTgamerXx?logo=github&style=for-the-badge&color=5253F2&labelColor=363c49)
+  ![GitHub followers](https://img.shields.io/github/followers/xXTgamerXx?logo=github&style=for-the-badge&color=a5a4f4&labelColor=3e444d)
+  ![GitHub User's stars](https://img.shields.io/github/stars/xXTgamerXx?logo=github&style=for-the-badge&color=a5a4f4&labelColor=3e444d)
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=xXTgamerXx&title_color=5683FC&icon_color=3c7bc2&&text_color=FEFEFE&bg_color=363c49&hide_border=true&border_radius=0)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=xXTgamerXx&title_color=a5a4f4&icon_color=a5a4f4&&text_color=FEFEFE&bg_color=3e444d&hide_border=true&border_radius=7)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xXTgamerXx&title_color=5683FC&icon_color=3c7bc2&&text_color=FEFEFE&bg_color=363c49&hide_border=true&border_radius=0)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xXTgamerXx&title_color=a5a4f4&icon_color=a5a4f4&&text_color=FEFEFE&bg_color=3e444d&hide_border=true&border_radius=7)
   
 </div>
