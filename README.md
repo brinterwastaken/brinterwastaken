@@ -9,6 +9,8 @@
   ![GitHub followers](https://img.shields.io/github/followers/brinterwastaken?logo=github&style=for-the-badge&color=C5FCFF&labelColor=122039)
   ![GitHub User's stars](https://img.shields.io/github/stars/brinterwastaken?logo=github&style=for-the-badge&color=F7CDFF&labelColor=122039)
 
+</div>
+
 ## Skills
 - Frontend, UI/UX, 3D
 
@@ -24,6 +26,8 @@
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 ## Stats
+
+<div align="center">
   
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=brinterwastaken&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=10"/>
   <img height=140 align="center" src="https://streak-stats.demolab.com?user=brinterwastaken&theme=dark&hide_border=true&border_radius=10&card_width=300&background=122039&fire=F7CDFF&ring=F7CDFF&currStreakLabel=BFE3FF&sideLabels=BFE3FF&sideNums=C5FCFF&hide_longest_streak=true" />
