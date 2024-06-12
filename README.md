@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Github Readme Header](https://github.com/brinterwastaken/brinterwastaken/assets/72494265/a62c12c7-1563-49fb-a06b-6bda8bce8d5f)
+  ![Github Readme Header](https://github.com/brinterwastaken/brinterwastaken/assets/72494265/2d13a32c-8f71-4493-b349-526f3b4a2155)
 
   # `~/readme.md`
   
@@ -13,9 +13,9 @@
 </div>
 
 ## Skills
-- Frontend Development
-- UI/UX Design
-- 3D Design
+- ⌨️ Front-end Development
+- 🖥️ UI/UX Design
+- 🎨 3D Design
 
 ## Technologies
 
