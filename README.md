@@ -1,7 +1,8 @@
 
 
 <div align="center">
-  <img alt="Github Readme Header" src="https://github.com/brinterwastaken/brinterwastaken/assets/72494265/5034c958-93e0-4eb2-bb58-7a6a767f2f49">
+  
+  ![Github Readme Header](https://github.com/brinterwastaken/brinterwastaken/assets/72494265/a62c12c7-1563-49fb-a06b-6bda8bce8d5f)
 
   # `~/readme.md`
   
