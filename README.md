@@ -12,10 +12,13 @@
 </div>
 
 ## Skills
-- Frontend, UI/UX, 3D
+- Frontend Development
+- UI/UX Design
+- 3D Design
 
 ## Technologies
 
+<div align="center">
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -24,6 +27,7 @@
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /> 
   <img width=48 height=48 hspace=4 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
 
 ## Stats
 
