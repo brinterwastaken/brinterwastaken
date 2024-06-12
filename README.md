@@ -10,7 +10,7 @@
   ![GitHub User's stars](https://img.shields.io/github/stars/brinterwastaken?logo=github&style=for-the-badge&color=F7CDFF&labelColor=122039)
   
   <img height=140 align="center" hspace=2 src="https://github-readme-stats.vercel.app/api?username=brinterwastaken&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=10"/>
-  <img height=140 align="center" hspace=2 src="https://streak-stats.demolab.com?user=brinterwastaken&theme=dark&hide_border=true&border_radius=10&card_width=290&background=122039&fire=F7CDFF&ring=F7CDFF&currStreakLabel=BFE3FF&sideLabels=BFE3FF&sideNums=C5FCFF&hide_longest_streak=true" />
+  <img height=140 align="center" hspace=2 src="https://streak-stats.demolab.com?user=brinterwastaken&theme=dark&hide_border=true&border_radius=10&card_width=300&background=122039&fire=F7CDFF&ring=F7CDFF&currStreakLabel=BFE3FF&sideLabels=BFE3FF&sideNums=C5FCFF&hide_longest_streak=true" />
   <img height=140 align="center" hspace=2 src="https://github-readme-stats.vercel.app/api/top-langs?username=brinterwastaken&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=10&layout=compact&langs_count=4&card_width=200&hide=vim%20script" />
   
 </div>
