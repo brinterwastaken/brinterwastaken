@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/89cd1064-aadb-4202-9556-c2d3da768a4f)
-
 <div align="center">
   
   ![Github Readme Header](https://github.com/brinterwastaken/brinterwastaken/assets/72494265/2d13a32c-8f71-4493-b349-526f3b4a2155)
