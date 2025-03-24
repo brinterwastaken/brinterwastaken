@@ -34,6 +34,6 @@
 <div align="center">
   
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=brinterwastaken&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=10"/>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinterwastaken&exclude_repo=9th-digital-notes&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=7&layout=compact&langs_count=4&card_width=200&hide=vim%20script,scss" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinterwastaken&exclude_repo=9th-digital-notes&title_color=C5FCFF&icon_color=F7CDFF&show_icons=true&text_color=BFE3FF&bg_color=122039&hide_border=true&border_radius=7&layout=compact&langs_count=6&card_width=320&hide=vim%20script,scss" />
   
 </div>
